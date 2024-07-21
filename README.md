@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Joan M.C.Huang.
+- 👋 Hi, I’m @Joan M.C. Huang.
 - 👀 I’m interested in Engineering.
 - 🌱 I’m currently learning IC design (Hardware), Java, Python (Software), and A.I.
 - 💞️ I’m looking to collaborate on employee.
