@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JoanMCHuang.
 - 👀 I’m interested in Engineering.
-- 🌱 I’m currently learning IC design, Java, Python and Verilog.
+- 🌱 I’m currently learning IC design, Java, and AI.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail: manchi.huang5240@gmail.com
 - 😄 Pronouns: ...
